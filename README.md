@@ -2,6 +2,8 @@
 
 A full‑stack web application that recreates the **Gemini AI** chat experience while running entirely on your own infrastructure. It uses **Google Gemini AI’s REST API** under the hood, so you get the same model quality with total control over the UI, and future feature additions.
 
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/ff72f287-48f4-4368-932a-18f35e37fd2d" />
+
 
 ## ✨ Features
 
